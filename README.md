@@ -1,6 +1,6 @@
 # Henrique Augusto Maltauro
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmaltaurodev&layout=compact)](https://github.com/hmaltaurodev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmaltaurodev&layout=compact&theme=github_dark)](https://github.com/hmaltaurodev/github-readme-stats)
 
 - Hi, I’m Henrique Augusto Maltauro (@hmaltaurodev)
 - I’m interested in C#, NodeJS, TypeScript

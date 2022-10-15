@@ -11,19 +11,7 @@ My main knowledge in the back-end is with .net C# and front-end with Angular
 I have also been developing knowledge in NodeJs with TypeScript, and delving into software architecture and data structure  
 
 <!-- markdownlint-disable MD033 -->
-<section class="flex-container">
-  <img class="flex-item" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmaltaurodev&layout=compact&theme=github_dark&hide=dart,java,swift,kotlin,objective-c">
-  <img class="flex-item" src="https://github-readme-stats.vercel.app/api?username=hmaltaurodev&show_icons=true&theme=github_dark">
+<section class="display: flex; justify-content: center;">
+  <img style="margin: 20px; height: 160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmaltaurodev&layout=compact&theme=github_dark&hide=dart,java,swift,kotlin,objective-c">
+  <img style="margin: 20px; height: 160px;" src="https://github-readme-stats.vercel.app/api?username=hmaltaurodev&show_icons=true&theme=github_dark">
 </section>
-
-<style>
-  .flex-container {
-    display: flex;
-    justify-content: center;
-  }
-
-  .flex-item {
-    margin: 20px;
-    height: 160px;
-  }
-</style>

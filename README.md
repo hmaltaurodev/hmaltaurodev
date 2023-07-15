@@ -12,7 +12,4 @@ I have also been developing knowledge in NodeJs with TypeScript, and delving int
 
 ##
 <!-- markdownlint-disable MD033 -->
-<section>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmaltaurodev&layout=compact&theme=github_dark&hide=dart,java,swift,kotlin,objective-c">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=hmaltaurodev&show_icons=true&theme=github_dark">
-</section>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmaltaurodev&layout=compact&theme=github_dark&hide=dart,java,swift,kotlin,objective-c)
